@@ -1,0 +1,7 @@
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\bin\x86\Debug\Content\Arial.xnb
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\bin\x86\Debug\ChatSystem.exe
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\bin\x86\Debug\ChatSystem.pdb
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\obj\x86\Debug\ChatSystem.csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\obj\x86\Debug\ChatSystem.exe
+c:\users\sami\documents\visual studio 2013\Projects\ChatSystem\ChatSystem\ChatSystem\obj\x86\Debug\ChatSystem.pdb
